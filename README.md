@@ -131,7 +131,7 @@ To execute the project, run the script:
 python sentiment_analysis.py
 ```
 
-## Output
+## Output :- Screenshot 2025-03-04 233939.png
 - **Accuracy**: Displays the classification accuracy.
 - **Classification Report**: Shows precision, recall, and F1-score.
 - **Confusion Matrix**: Visualizes the model's performance.
